@@ -1,32 +1,40 @@
 # 👋 Hi I’m Kentin Guillemot
 
-I am a Master’s student (M1) specializing in **Data Science and Artificial Intelligence** at ESILV, currently pursuing a Research Track with a project centered on **Unsupervised Deep Learning for Information Retrieval of Long Documents**. My passion lies in **data analysis, machine learning, and innovation**, with a focus on real-world applications.
+I am a Master’s student (M2) specializing in **Data Science and Artificial Intelligence** at ESILV. 
+My passion lies in **machine learning, deep learning and AI applications**, I also develop web applications with AI tools in it.
 
 
 ## 🛠️ Skills
 
 ### **Programming & Tools**
-- **Programming Languages:** Python, SQL, C#, R  
-- **Data Analysis:** Expert in Pandas, NumPy, and Scikit-learn  
-- **Machine Learning:** Hands-on experience with algorithms such as:
+- **Programming Languages:** Python, HTML, CSS SQL, C#, Javascript  
+- **Machine learning and Deep Learning libraries:** Scikit-learn, Pytorch, Tensorflow/Keras, Langchain
+- **LLM API:** OpenAI, Mistral AI, Gemini
+- **Data analysis:** Pandas, numpy
+- **Data Visualization:** Matplotlib, Seaborn, and Sweetviz
+- **Framework fullsatck :** Django
+- **Cloud providers:** Microsof Azure, Google cloud plateform
+- Github
+
+### **Machine Learning:**
   - Logistic Regression
+  - Linear Regression
   - K-Nearest Neighbors (KNN)
   - Support Vector Machines (SVM)
-  - Random Forest
-  - Gradient Boosting (e.g., XGBoost)  
-- **Data Visualization:** Proficient with Matplotlib, Seaborn, and Sweetviz  
+  - Random Forest and decisions tree in general
+  - Gradient Boosting (ex: XGBoost, LightGBM)  
 
 ### **Deep Learning**
-- **Frameworks:** TensorFlow, PyTorch  
-- **Architectures:** 
+  - Fully connected neural networks
   - Convolutional Neural Networks (CNNs)
-  - Recurrent Neural Networks (RNNs)
-  - Transformer Models (e.g., BERT, GPT)  
+  - Recurrent Neural Networks (RNNs) such as LSTM
+  - Transformer Models (ex: BERT, GPT)  
 
 ### **LLM (Large Language Models)**
-- **Pipeline Development:** Built LLM workflows with LangChain for task orchestration  
-- **Tools:** Integrated OpenAI API, Chroma, and FAISS for efficient document retrieval  
-- **Applications:** Developed intelligent chatbots, document analysis systems, and incorporated tools like EasyOCR for text extraction  
+  - Pipeline RAG
+  - NER with LLM
+  - Function calling
+  - Agentic systems
 
 ---
 
@@ -70,4 +78,3 @@ I am a Master’s student (M1) specializing in **Data Science and Artificial Int
 - **LinkedIn:** [Kentin Guillemot](https://linkedin.com)  
 - **Email:** guillemotkentin@gmail.com  
 
-Feel free to connect with me for discussions about projects, collaborations, or ideas in the fields of **data science** and **artificial intelligence**!
