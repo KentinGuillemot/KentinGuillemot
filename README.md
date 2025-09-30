@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Kentin Guillemot
+# 👋 Hi I’m Kentin Guillemot
 
 I am a Master’s student (M1) specializing in **Data Science and Artificial Intelligence** at ESILV, currently pursuing a Research Track with a project centered on **Unsupervised Deep Learning for Information Retrieval of Long Documents**. My passion lies in **data analysis, machine learning, and innovation**, with a focus on real-world applications.
 
----
 
 ## 🛠️ Skills
 
