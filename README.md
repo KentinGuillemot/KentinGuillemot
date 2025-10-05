@@ -7,6 +7,7 @@ Currently: looking for a final year internship and taking on select freelance AI
 Interests: hands on AI development, designing and coding ML/DL models, building LLM/SLM based applications (RAG, chatbots, agentic systems), developing web tools with integrated AI components.
 
 Location: Paris / Monaco
+
 Open to hybrid/remote
 
 ## 🛠️ Tech Stack
