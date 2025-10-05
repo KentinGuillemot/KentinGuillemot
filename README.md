@@ -1,27 +1,56 @@
 # 👋 Hi, I’m Kentin Guillemot
 
-Master’s student (M2) in Data Science & Artificial Intelligence at ESILV, building real-world AI systems—from classic ML to deep learning and LLM apps. I also ship full-stack web tools where AI isn’t just a demo: it powers features people actually use.
+Master’s student (M2) in Data Science & Artificial Intelligence at ESILV, building real-world AI systems—from classic ML to deep learning and LLM apps. 
+
 Currently: looking for a final-year internship and taking on select freelance AI/full-stack missions.
-Interests: applied ML, RAG & agents, optimization, MLOps, and human-centric product design.
+
+Interests: hands-on AI development, designing and coding ML/DL models, building LLM/SLM-based applications (RAG, chatbots, agentic systems), developing web tools with integrated AI components.
 
 Location: Paris / Monaco · Open to hybrid/remote.
 
 ## 🛠️ Tech Stack
 
-Languages : Python, JavaScript, C#, SQL, HTML/CSS
-Data & ML : NumPy, Pandas, SciPy, scikit-learn (all models), XGBoost, LightGBM, Optuna
-Deep Learning : PyTorch, TensorFlow/Keras, Transformers
-LLM & NLP : LangChain, ADK, OpenAI/Mistral/Gemini APIs, Hugging Face Transformers, RAG, spaCy, fine-tuning
-MLOps & Deploy : Docker, CI/CD, Azure, Google Cloud Platform
-Web : Django, FastAPI
-Vision/OCR : OpenCV, Tesseract
-Databases : PostgreSQL, MySQL, MongoDB, Cassandra, Neo4j
+- Languages : Python, JavaScript, C#, SQL, HTML/CSS
+- Data & ML : NumPy, Pandas, SciPy, scikit-learn (all major models), XGBoost, LightGBM, Optuna
+- Deep Learning : PyTorch, TensorFlow/Keras, Hugging Face Transformers
+- LLM & NLP : LangChain, ADK, OpenAI/Mistral/Gemini APIs, RAG, spaCy, fine-tuning
+- MLOps & Deploy : Docker, CI/CD, Azure, Google Cloud Platform
+- Web : Django, FastAPI
+- Vision/OCR : OpenCV, Tesseract
+- Databases : PostgreSQL, MySQL, MongoDB, Cassandra, Neo4j
 
-## ✅ What I work with (selected)
+## 🧠 Machine Learning
 
-ML: Logistic/Linear Regression, SVM, KNN, Random Forest, Gradient Boosting
-DL: MLPs, CNNs, LSTMs, Transformers
-LLM : RAG pipelines, retrieval, NER with LLMs, tool/function calling, agentic systems
+Supervised Learning
+
+- Linear Models : Linear Regression, Logistic Regression, Ridge, Lasso
+- Tree-Based Models : Decision Trees, Random Forests
+- Ensemble Methods : AdaBoost, XGBoost, LightGBM
+- Kernel & Distance-Based Models : Support Vector Machines (linear, RBF), K-Nearest Neighbors (KNN)
+- Model Optimization & Evaluation: Cross-validation, ROC-AUC, Precision/Recall/F1, GridSearchCV, Optuna hyperparameter tuning
+
+Unsupervised Learning
+
+- Clustering : K-Means, DBSCAN
+- Dimensionality Reduction : PCA, t-SNE
+- Anomaly Detection : Isolation Forest, Autoencoders for reconstruction
+- Encoding (OneHot, Target), feature scaling, feature selection (RFE, Mutual Information), SMOTE for imbalance
+
+## 🧩 Deep Learning
+
+- Architectures : MLPs, CNNs, RNNs, LSTMs, Transformers
+- Generative Models: Autoencoders (AE), Variational Autoencoders (VAE), Generative Adversarial Networks (GANs)
+- Applications : Image classification, text analysis, sequence modeling, embeddings, text-to-text
+- Optimization : Adam, SGD, learning rate scheduling, early stopping
+- Regularization : Dropout, batch normalization, L1, L2
+
+## 🧠 LLM (Large Language Models)
+
+- Retrieval-Augmented Generation (RAG) pipelines
+- NER & text classification with LLMs
+- Function calling and tool use
+- Multi-agent architectures and autonomous task planning
+- Prompt engineering and contextual memory management
 
 ## 📚 Recent Projects
 1) Assistant Chatbot (HR & Social Rights)
@@ -40,7 +69,7 @@ Focus on explainability and deployability (clean features, evaluation, baselines
 3) Movie Recommender
 
 Collaborative filtering using KNN & SVD.
-Missing-rating strategies: mean, KNN, “supercharged” KNN
+Missing-rating strategies: mean, KNN
 Delivers personalized top-N lists with straightforward metrics (RMSE/MAE).
 
 4) Biscuit Optimization (Ops Research)
