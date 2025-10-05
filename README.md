@@ -2,11 +2,11 @@
 
 Master’s student (M2) in Data Science & Artificial Intelligence at ESILV, building real world  AI systems from classic ML to deep learning and LLM apps. 
 
-Currently: looking for a final year internship and taking on select freelance AI/fullstack missions.
+Currently : looking for a final year internship and taking on select freelance AI/fullstack missions.
 
-Interests: hands on AI development, designing and coding ML/DL models, building LLM/SLM based applications (RAG, chatbots, agentic systems), developing web tools with integrated AI components.
+Interests : hands on AI development, designing and coding ML/DL models, building LLM/SLM based applications (RAG, chatbots, agentic systems), developing web tools with integrated AI components.
 
-Location: Paris / Monaco
+Location : Paris / Monaco
 
 Open to hybrid/remote
 
@@ -29,7 +29,7 @@ Supervised Learning
 - Tree Based Models : Decision Trees, Random Forests
 - Ensemble Methods : AdaBoost, XGBoost, LightGBM
 - Kernel & Distance Based Models : Support Vector Machines (linear, RBF), K-Nearest Neighbors (KNN)
-- Model Optimization & Evaluation: Cross-validation, ROC-AUC, Precision/Recall/F1, GridSearchCV, Optuna hyperparameter tuning
+- Model Optimization & Evaluation : Cross-validation, ROC-AUC, Precision/Recall/F1, GridSearchCV, Optuna hyperparameter tuning
 
 Unsupervised Learning
 
@@ -41,7 +41,7 @@ Unsupervised Learning
 ## 🧩 Deep Learning
 
 - Architectures : MLPs, CNNs, RNNs, LSTMs, Transformers
-- Generative Models: Autoencoders (AE), Variational Autoencoders (VAE), Generative Adversarial Networks (GANs)
+- Generative Models : Autoencoders (AE), Variational Autoencoders (VAE), Generative Adversarial Networks (GANs)
 - Applications : Image classification, text analysis, sequence modeling, embeddings, text-to-text
 - Optimization : Adam, SGD, learning rate scheduling, early stopping
 - Regularization : Dropout, batch normalization, L1, L2
