@@ -91,4 +91,5 @@ Python implementation designed for scalability and fast iteration.
 ## 📫 Contact
 
 LinkedIn: linkedin.com/in/kentin-guillemot-818651233
+
 Email: guillemotkentin@gmail.com
