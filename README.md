@@ -55,30 +55,39 @@ Unsupervised Learning
 - Prompt engineering and contextual memory management
 
 ## 📚 Recent Projects
-1) Assistant Chatbot (HR & Social Rights)
+1) Assistant Chatbot RAG (HR & Social Rights)
 
 LLM assistant answering complex HR questions with RAG over PDFs/images.
 Retrieval: FAISS/Chroma; OCR: EasyOCR; Orchestration: LangChain
 Stack: Python, Django, OpenAI API, Docker
 Results: faster answers, fewer inbound emails, robust multi-doc understanding.
 
-2) Fraud Detection System
+-> https://tools.hope.mc/Chatbot/chatbot_app
+
+2) ADK Multi-Agent System for Education
+
+Developed during the Google GCPU Hackathon at ESILV.
+Intelligent multi-agent system designed for adaptive learning: agents collaborate to generate multilingual lessons, quizzes and cours.
+Uses the ADK (Agentic Development Kit) to structure autonomous behaviors and task delegation between AI agents.
+Stack: Python, ADK, LLM APIs (Gemini), FastAPI
+Impact: Demonstrated the potential of multi-agent LLMs for personalized education and autonomous content generation.
+
+3) Fraud Detection System
 
 End-to-end ML pipeline for transaction fraud.
 Imbalance handling with SMOTE; models: LogReg, SVM, KNN
 Focus on explainability and deployability (clean features, evaluation, baselines).
 
-3) Movie Recommender
+4) Simulateur de paie monégasque
 
-Collaborative filtering using KNN & SVD.
-Missing rating strategies: mean, KNN
-Delivers personalized top N lists with straightforward metrics (RMSE/MAE).
+Web-based payroll simulator developed for Hope SARL (Monaco).
+Automates payroll calculation under Monaco’s legal and fiscal framework.
+Integrates Django back-end logic for salary, contributions, and seniority bonuses, with dynamic UI.
+Connected to a database of legal parameters and formula-driven computation logic for accurate simulation.
+Stack: Python, Django, PostgreSQL, JavaScript
+Outcome: Simplified HR management and reduced administrative time for clients.
 
-4) Biscuit Optimization (Ops Research)
-
-Production planning to maximize profit and minimize waste.
-Genetic Algorithms + CSP for constraints (dimensions/defects)
-Python implementation designed for scalability and fast iteration.
+-> https://tools.hope.mc/simulateur_paie/home_OPS
 
 ## 💼 Experience (short)
 
